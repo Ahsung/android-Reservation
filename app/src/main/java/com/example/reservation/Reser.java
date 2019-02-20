@@ -50,4 +50,5 @@ public class Reser {
     public String getContents(){ return  this.contents ;
     }
     //이거 변경한건데 변경 될까?
+    //2번째 변경 처음거 완전 삭제후 repository에서 패치받고 변경 사항 추가해서 push
 }
