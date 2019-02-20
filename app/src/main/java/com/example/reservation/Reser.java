@@ -49,4 +49,5 @@ public class Reser {
     }
     public String getContents(){ return  this.contents ;
     }
+    //이거 변경한건데 변경 될까?
 }
