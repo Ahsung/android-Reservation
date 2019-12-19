@@ -1,2 +1,2 @@
 # android-Reservation
-My simple android project
+simple android project
